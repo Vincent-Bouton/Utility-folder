@@ -1,14 +1,6 @@
-<div align="center">
-    <h1>Project Name<h1>
-    <a>
-        <img src="https://img.shields.io/badge/DEMO-lightgrey?style=for-the-badge" alt="Demo"/>
-    </a>
-    
-</div>
-
+<h1 align="center">Project Name</h1>
 
 <!-- Table of content-->
-
 
  ## Table of content
 
@@ -35,28 +27,37 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 ### Built with
 
 <a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/-lightgrey?style=for-the-badge&logo=next.js" alt="NextJS"/>
+    <img width="30"  src="https://raw.githubusercontent.com/Vincent-Risk0/Utility-folder/cd6f90936a3876dea6c6fe9b8fe2f880f814f6d4/asset/next-dot-js.svg" alt="NextJS"/>
 </a>    
 <a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/-lightgrey?style=for-the-badge&logo=stripe" alt="Stripe"/>
+    <img width="30"  src="https://raw.githubusercontent.com/Vincent-Risk0/Utility-folder/cd6f90936a3876dea6c6fe9b8fe2f880f814f6d4/asset/stripe.svg" alt="Stripe"/>
 </a>    
 <a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/-lightgrey?style=for-the-badge&logo=strapi" alt="Strapi"/>
+    <img width="30" src="https://raw.githubusercontent.com/Vincent-Risk0/Utility-folder/cd6f90936a3876dea6c6fe9b8fe2f880f814f6d4/asset/strapi.svg" alt="Strapi"/>
 </a>
-<div align="center">
+<br/>
+<br/>
 
 ### Built by
+<br/>
 
 **Vincent-Risk0**
+
 <br/>
 <a href="https://github.com/Vincent-Risk0">
-    <img src="https://img.shields.io/badge/Github-orange?style=for-the-badge&logo=Github" alt="NextJS"/>
+    <img width="30"  src="https://raw.githubusercontent.com/Vincent-Risk0/Utility-folder/cd6f90936a3876dea6c6fe9b8fe2f880f814f6d4/asset/github.svg" alt="Github"/>
 </a>    
 <a href="https://twitter.com/Vincent_Risk0">
-    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter" alt="Stripe"/>
+    <img width="30"  src="https://raw.githubusercontent.com/Vincent-Risk0/Utility-folder/cd6f90936a3876dea6c6fe9b8fe2f880f814f6d4/asset/twitter.svg" alt="Twitter"/>
 </a>
 <a href="https://www.linkedin.com/in/vincent-btn-dev/">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Strapi"/>
+    <img width="30" src="https://raw.githubusercontent.com/Vincent-Risk0/Utility-folder/cd6f90936a3876dea6c6fe9b8fe2f880f814f6d4/asset/linkedin.svg" alt="LinkedIn"/>
 </a>
-</div>
 
+## Features
+
+Explain why you're doing this repo, who you work with, why you're doing it. 
+
+## Contact
+
+Contact from owner.
