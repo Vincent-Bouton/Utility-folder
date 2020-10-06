@@ -28,12 +28,15 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <a href="https://nextjs.org/">
     <img width="30"  src="https://raw.githubusercontent.com/Vincent-Risk0/Utility-folder/49c9131fd1cb3709877b9c0597ff8fef85ccb15b/asset/next-dot-js.svg" alt="NextJS"/>
+    Next.js
 </a>    
 <a href="https://nextjs.org/">
     <img width="30"  src="https://raw.githubusercontent.com/Vincent-Risk0/Utility-folder/cd6f90936a3876dea6c6fe9b8fe2f880f814f6d4/asset/stripe.svg" alt="Stripe"/>
+    Stripe
 </a>    
 <a href="https://nextjs.org/">
     <img width="30" src="https://raw.githubusercontent.com/Vincent-Risk0/Utility-folder/cd6f90936a3876dea6c6fe9b8fe2f880f814f6d4/asset/strapi.svg" alt="Strapi"/>
+    Strapi
 </a>
 
 ### Built by
