@@ -27,7 +27,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 ### Built with
 
 <a href="https://nextjs.org/">
-    <img width="30"  src="https://raw.githubusercontent.com/Vincent-Risk0/Utility-folder/cd6f90936a3876dea6c6fe9b8fe2f880f814f6d4/asset/next-dot-js.svg" alt="NextJS"/>
+    <img width="30"  src="https://raw.githubusercontent.com/Vincent-Risk0/Utility-folder/49c9131fd1cb3709877b9c0597ff8fef85ccb15b/asset/next-dot-js.svg" alt="NextJS"/>
 </a>    
 <a href="https://nextjs.org/">
     <img width="30"  src="https://raw.githubusercontent.com/Vincent-Risk0/Utility-folder/cd6f90936a3876dea6c6fe9b8fe2f880f814f6d4/asset/stripe.svg" alt="Stripe"/>
@@ -51,7 +51,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
     <img width="30"  src="https://raw.githubusercontent.com/Vincent-Risk0/Utility-folder/cd6f90936a3876dea6c6fe9b8fe2f880f814f6d4/asset/twitter.svg" alt="Twitter"/>
 </a>
 <a href="https://www.linkedin.com/in/vincent-btn-dev/">
-    <img width="30" src="https://raw.githubusercontent.com/Vincent-Risk0/Utility-folder/cd6f90936a3876dea6c6fe9b8fe2f880f814f6d4/asset/linkedin.svg" alt="LinkedIn"/>
+    <img width="30" src="https://raw.githubusercontent.com/Vincent-Risk0/Utility-folder/49c9131fd1cb3709877b9c0597ff8fef85ccb15b/asset/linkedin.svg" alt="LinkedIn"/>
 </a>
 
 ## Features
