@@ -78,6 +78,11 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
     <img width="30" src="./asset/tailwindcss.svg" alt="tailwind css logo"/>
     <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge" alt="tailwind css"/>
 </a>
+<a href="https://d3js.org/">
+    <img width="30" src="./asset/d3-dot-js.svg" alt="D3.js logo"/>
+    <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge" alt="D3.js"/>
+</a>
+
 
 
 ### Built by
